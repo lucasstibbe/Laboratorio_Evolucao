@@ -1,0 +1,23 @@
+# Java
+*.class
+
+# Build outputs
+/out/
+/build/
+/target/
+/.gradle/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
